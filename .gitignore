@@ -2,3 +2,4 @@
 !/docs
 !.gitignore
 !README.md
+.DS_store
